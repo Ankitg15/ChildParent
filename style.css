@@ -1,0 +1,32 @@
+.parent{
+    height: 400px;
+    width: 400px;
+    background: purple;
+    margin: auto;
+    position: relative;
+}
+.c{
+    height: 100px;
+    width: 100px;
+    position: absolute;
+}
+.c1{
+    background: red;
+    top: 0px;
+    left: 0px;
+}
+.c2{
+    background: blue;
+    top: 0px;
+    right: 0px;
+}
+.c3{
+    background: green;
+    bottom: 0px;
+    left: 0px;
+}
+.c4{
+    background: palevioletred;
+    bottom: 0px;
+    right: 0px;
+}
